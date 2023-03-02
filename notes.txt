@@ -1,0 +1,7 @@
+- don't need google-analytics.js
+Google Analytics is a platform that collects data from your websites and apps to create reports that provide insights into your business.
+
+- don't need clicky.js
+Clicky is a cloud-based web analytics solution designed to help enterprises track, evaluate and report on the site visitors in real-time
+
+- 
